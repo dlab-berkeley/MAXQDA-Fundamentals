@@ -1,14 +1,14 @@
 # D-Lab MAXQDA Fundamentals Workshop
 
-[![Open Workshop](https://img.shields.io/badge/open-workshop%20-blue)](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
+[![Open Workshop](https://img.shields.io/badge/open-materials%20-blue)](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
 [![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit?usp=share_link&ouid=113225142021726469601&rtpof=true&sd=true)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository is a placeholder for D-Lab's MAXQDA Fundamentals workshop. See the following links to access the materials:
 
-* Access the folder containing all materials at this [link](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link).
-* Access a copy of the Google Slides at this [link](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit?usp=share_link&ouid=113225142021726469601&rtpof=true&sd=true).
-* Access a PDF of the slides at this [link](https://drive.google.com/file/d/1_QspynmxEWagKpShtUC0WwvhYmFhqVSi/view?usp=share_link).
+* [Workshop materials folder](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link).
+* [Google Slides](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit?usp=share_link&ouid=113225142021726469601&rtpof=true&sd=true).
+* [PDF of Slides](https://drive.google.com/file/d/1_QspynmxEWagKpShtUC0WwvhYmFhqVSi/view?usp=share_link).
 
 ## Workshop Goals
 
@@ -25,17 +25,20 @@ Instructors will share recommended resources.
 D-Lab works with Berkeley faculty, research staff, and students to advance
 data-intensive social science and humanities research. Our goal at D-Lab is to
 provide practical training, staff support, resources, and space to enable you to
-use R for your own research applications. Our services cater to all skill
-levels, and no programming, statistical, or computer science backgrounds are
-necessary. We offer these services in the form of workshops such as R
-Fundamentals, one-to-one consulting, and working groups that cover a variety of
-research topics, digital tools, and programming languages.
+use R for your own research applications. Our services cater to all skill levels
+and no programming, statistical, or computer science backgrounds are necessary.
+We offer these services in the form of workshops, one-to-one consulting, and
+working groups that cover a variety of research topics, digital tools, and
+programming languages.  
 
-Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us.
-View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for
-upcoming events, and also learn about how to utilize our
-[consulting](http://dlab.berkeley.edu/consulting) and
-[data](http://dlab.berkeley.edu/data-resources) services. 
+Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us.
+You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for
+upcoming events, learn about how to utilize our
+[consulting](https://dlab.berkeley.edu/consulting) and [data
+services](https://dlab.berkeley.edu/data), and check out upcoming
+[workshops](https://dlab.berkeley.edu/events/workshops). Subscribe to our
+[newsletter](https://dlab.berkeley.edu/news/weekly-newsletter) to stay up to
+date on D-Lab events, services, and opportunities.
 
 # Contributors
 
