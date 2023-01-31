@@ -20,6 +20,32 @@ analytic features including visual, memo and the Questions, Themes and Theories
 (QTT) tools. We will briefly touch on the MaxQDA Team cloud-based version.
 Instructors will share recommended resources.
 
+## Installation Instructions
+
+In preparation for the upcoming workshop, you will can install MAXQDA and download the workshop materials.
+
+1. **Download and Install MAXQDA**: To download the installation materials, please visit the [MAXQDA Website](https://www.maxqda.com/qualitative-data-analysis-software?gclid=Cj0KCQiA8t2eBhDeARIsAAVEga2PYw1OLEq6ciKXbg5jQa2X7urhIbHp5vq6rCHFCKKOW86Ng7yD-vkaAqBPEALw_wcB#!). You can access a free 14-day trial through the MAXQDA website. For assistance with installation, you may view the [MAXQDA trial information](https://www.maxqda.com/trial).
+
+2. **Download the Workshop Materials**: The workshop materials can be obtained from this GitHub repository.
+  * Click the green "Code" button in the top right of the repository information.
+  * Click "Download Zip".
+  * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
+We will take a few minutes at the start of the workshop to make sure everyone that would like to has MAXQDA installed and the workshop materials downloaded. Please feel free to email or visit the [D-Lab Front Desk](https://dlab.berkeley.edu/training/frontdesk-info) if you have any questions.
+
+# Additional Resources
+
+Check out the following resources to learn more about Stata:
+1. MAXQDA book recommendations
+  * [“Getting Started Guide”](https://www.maxqda.com/help-mx22/getting-started-guide/introduction): for a detailed overview and recommendations for new users.
+  * [Analyzing Open-Ended Survey Questions with MAXQDA](https://www.maxqda-press.com/catalog/guides/analyzing-open-ended-survey-questions-with-maxqda): a free downloadable pdf instruction guide.
+  * [Analyzing Focus Groups with MAXQDA](https://www.google.com/url?q=https://www.maxqda-press.com/catalog/guides/analyzing-focus-groups-with-maxqda&sa=D&source=docs&ust=1675132717764127&usg=AOvVaw1zKUBilWVD9R50BUvUwNev): a free downloadable pdf instruction guide.
+  * [Focused Analysis of Qualitative Interviews with MAXQDA](https://www.maxqda-press.com/catalog/books/focused-analysis-of-qualitative-interviews-with-maxqda): a free downloadable pdf instruction book.
+2. MAXQDA webinars and workshops
+  * [Training Courses](https://www.maxqda.com/live-training): offered through MAXQDA’s website
+  * [Video Tutorials](https://www.maxqda.com/maxqda-video-tutorials)
+
+
+
 # About the UC Berkeley D-Lab
 
 D-Lab works with Berkeley faculty, research staff, and students to advance
