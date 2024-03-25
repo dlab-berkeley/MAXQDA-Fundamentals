@@ -7,7 +7,7 @@
 This repository is a placeholder for D-Lab's MAXQDA Fundamentals workshop. See the following links to access the materials:
 
 * [Workshop materials folder](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
-* [Installation Instructions Slides](https://docs.google.com/presentation/d/1Ii6kWxagqWprqbxM4xOho-YVSl-iRYF1JzMGMD-s-c0/edit#slide=id.g2c65dca9e8b_0_60)
+* [Installation Instructions Slides](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
 * [Google Slides](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit?usp=share_link&ouid=113225142021726469601&rtpof=true&sd=true)
 * [PDF of Slides](https://drive.google.com/file/d/1_QspynmxEWagKpShtUC0WwvhYmFhqVSi/view?usp=share_link)
 
