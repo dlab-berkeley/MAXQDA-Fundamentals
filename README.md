@@ -11,7 +11,7 @@ This repository is a placeholder for D-Lab's MAXQDA Fundamentals workshop. See t
 * [Installation Instructions](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
 * [QDA Overview](https://docs.google.com/presentation/d/1ug11kXRCsFXXiam39KY3fbbSn3sRy8Ur/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
 * [MAXQDA Basics](https://docs.google.com/presentation/d/10OVR8AkyO7TqMxhWJsHB4pnjq11fhzdu/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
-* [MAXQDA Advanced](https://docs.google.com/presentation/d/1064tFRybSq5LBAPgDiCynOMXfp1hy4Ra/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true))
+* [MAXQDA Advanced](https://docs.google.com/presentation/d/1064tFRybSq5LBAPgDiCynOMXfp1hy4Ra/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
 
 
 ## Workshop Goals
