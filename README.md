@@ -1,17 +1,16 @@
 # D-Lab MAXQDA Fundamentals Workshop
 
 [![Open Workshop](https://img.shields.io/badge/open-materials%20-blue)](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
-[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit?usp=share_link&ouid=113225142021726469601&rtpof=true&sd=true)
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit#slide=id.p43)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository is a placeholder for D-Lab's MAXQDA Fundamentals workshop. See the following links to access the materials:
+### Prerequisites
+None.
 
-* [Workshop materials folder](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
-* Slides:
+
+
+
 * [Installation Instructions](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
-* [QDA Overview](https://docs.google.com/presentation/d/1ug11kXRCsFXXiam39KY3fbbSn3sRy8Ur/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
-* [MAXQDA Basics](https://docs.google.com/presentation/d/10OVR8AkyO7TqMxhWJsHB4pnjq11fhzdu/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
-* [MAXQDA Advanced](https://docs.google.com/presentation/d/1064tFRybSq5LBAPgDiCynOMXfp1hy4Ra/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
 
 
 ## Workshop Goals
@@ -23,6 +22,17 @@ how to use manual and autocode features. We will review some of the additional
 analytic features including visual, memo and the Questions, Themes and Theories
 (QTT) tools. We will briefly touch on the MaxQDA Team cloud-based version.
 Instructors will share recommended resources.
+
+## Learning Objectives
+
+After completing this workshop, you will be able to:
+
+* Navigating the MaxQDA interface, including the Document System, Code System, Document Browser, and Retrieved Segments panels, and understand their purpose in qualitative data analysis.
+* Import and organize different types of data into MaxQDA, such as text documents, PDFs, spreadsheets, and multimedia files, to efficiently manage qualitative datasets.
+* Manually code sections of your data and use MaxQDA’s autocoding features, allowing you to label, categorize, and analyze large datasets efficiently.
+* Understand key analytic tools like the Document Portrait, Summary Grid, and memos, and apply them to identify patterns and summarize themes.
+* Understand the basics of MaxQDA TeamCloud, enabling team collaboration on projects by sharing files, tracking changes, and managing versions in real-time.
+
 
 ## Installation Instructions
 
@@ -74,3 +84,4 @@ date on D-Lab events, services, and opportunities.
 
 * Renee Starowicz
 * Claudia von Vacano
+* Tom van Nuenen
