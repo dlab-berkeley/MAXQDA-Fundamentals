@@ -5,12 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ### Prerequisites
-None.
-
-
-
-
-* [Installation Instructions](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true)
+Please install MAXQDA prior to attending the workshop. See the [Installation Instructions](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true).
 
 
 ## Workshop Goals
