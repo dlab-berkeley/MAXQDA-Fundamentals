@@ -22,11 +22,11 @@ Instructors will share recommended resources.
 
 After completing this workshop, you will be able to:
 
-* Navigating the MaxQDA interface, including the Document System, Code System, Document Browser, and Retrieved Segments panels, and understand their purpose in qualitative data analysis.
-* Import and organize different types of data into MaxQDA, such as text documents, PDFs, spreadsheets, and multimedia files, to efficiently manage qualitative datasets.
-* Manually code sections of your data and use MaxQDA’s autocoding features, allowing you to label, categorize, and analyze large datasets efficiently.
-* Understand key analytic tools like the Document Portrait, Summary Grid, and memos, and apply them to identify patterns and summarize themes.
-* Understand the basics of MaxQDA TeamCloud, enabling team collaboration on projects by sharing files, tracking changes, and managing versions in real-time.
+* **Navigate the MaxQDA interface**, including the Document System, Code System, Document Browser, and Retrieved Segments panels, and understand their purpose in qualitative data analysis.
+* **Import and organize different types of data into MaxQDA**, such as text documents, PDFs, spreadsheets, and multimedia files, to efficiently manage qualitative datasets.
+* **Manually code sections of your data** and use MaxQDA’s autocoding features, allowing you to label, categorize, and analyze large datasets efficiently.
+* **Understand key analytic tools** like the Document Portrait, Summary Grid, and memos, and apply them to identify patterns and summarize themes.
+* **Understand the basics of MaxQDA TeamCloud**, enabling team collaboration on projects by sharing files, tracking changes, and managing versions in real-time.
 
 
 ## Installation Instructions
