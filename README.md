@@ -1,7 +1,7 @@
 # D-Lab MAXQDA Fundamentals Workshop
 
 [![Open Workshop](https://img.shields.io/badge/open-materials%20-blue)](https://drive.google.com/drive/folders/1l7I0nOHeFrcEYRaLM71lXgYVxjZQkJK7?usp=share_link)
-[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1rJ_5iOhRzBM5M-RqYoT3NojAhq-hUFwc/edit#slide=id.p43)
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1k07dx1azsjQG5LgZ9mV2I771MEH_aPlvJ6iYlsFh-rY/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ### Prerequisites
