@@ -6,7 +6,7 @@
 
 This repository contains the materials for D-Lab's MAXQDA Fundamentals workshop.
 
-### Prerequisites
+## Prerequisites
 Please install MAXQDA prior to attending the workshop. See the [Installation Instructions](https://docs.google.com/presentation/d/1_5tiefNJ4J_LzkPmOrzFyGdxP8eaHGCB/edit?usp=sharing&ouid=117085659483156905831&rtpof=true&sd=true).
 
 Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
